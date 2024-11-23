@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\bin\Debug\net6.0\airport.Core.deps.json
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\bin\Debug\net6.0\airport.Core.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\bin\Debug\net6.0\airport.Core.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\refint\airport.Core.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\airport.Core.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Core\obj\Debug\net6.0\ref\airport.Core.dll

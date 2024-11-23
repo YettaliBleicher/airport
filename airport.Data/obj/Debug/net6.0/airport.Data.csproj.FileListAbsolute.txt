@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\bin\Debug\net6.0\airport.Data.deps.json
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\bin\Debug\net6.0\airport.Data.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\bin\Debug\net6.0\airport.Data.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\bin\Debug\net6.0\airport.Core.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\bin\Debug\net6.0\airport.Core.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.csproj.CopyComplete
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\refint\airport.Data.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\airport.Data.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Data\obj\Debug\net6.0\ref\airport.Data.dll

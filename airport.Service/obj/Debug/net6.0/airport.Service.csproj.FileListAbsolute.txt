@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\bin\Debug\net6.0\airport.Service.deps.json
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\bin\Debug\net6.0\airport.Service.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\bin\Debug\net6.0\airport.Service.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\bin\Debug\net6.0\airport.Core.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\bin\Debug\net6.0\airport.Core.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.csproj.CopyComplete
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\refint\airport.Service.dll
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\airport.Service.pdb
+C:\Users\user1\Documents\לימודים\כתה יד\NET CORE\lesson6\lesson6\airport\airport.Service\obj\Debug\net6.0\ref\airport.Service.dll

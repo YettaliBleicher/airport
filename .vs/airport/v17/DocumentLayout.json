@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\controllers\\airplanescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\controllers\\airplanescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C8398-F9CA-49DC-9390-B77693FC0126}|airport.Api\\airport.Api.csproj|solutionrelative:airport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2B912-262D-49D8-AF60-D6B0BD55AA62}|airport.Data\\airport.Data.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2B912-262D-49D8-AF60-D6B0BD55AA62}|airport.Data\\airport.Data.csproj|solutionrelative:airport.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|solutionrelative:airport.service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|solutionrelative:airport.service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.service\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|solutionrelative:airport.service\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.service\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|solutionrelative:airport.service\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|t:\\group b\\netcore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.service\\airplaneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D312B9-3C8E-4FDE-9F01-9ED742C377B7}|airport.Service\\airport.Service.csproj|solutionrelative:airport.service\\airplaneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Controllers\\StatusController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\StatusController.cs*",
+              "RelativeToolTip": "airport.Api\\Controllers\\StatusController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:56:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Controllers\\LocationsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\LocationsController.cs*",
+              "RelativeToolTip": "airport.Api\\Controllers\\LocationsController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:55:27.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Controllers\\FlightsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "airport.Api\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:52:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Controllers\\CompaniesController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "airport.Api\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:50:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirplanesController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\AirplanesController.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Controllers\\AirplanesController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Controllers\\AirplanesController.cs",
+              "RelativeToolTip": "airport.Api\\Controllers\\AirplanesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:50:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Program.cs",
+              "RelativeDocumentMoniker": "airport.Api\\Program.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Api\\Program.cs",
+              "RelativeToolTip": "airport.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "airport.Data\\DataContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Data\\DataContext.cs",
+              "RelativeToolTip": "airport.Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\StatusService.cs",
+              "RelativeDocumentMoniker": "airport.Service\\StatusService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\StatusService.cs",
+              "RelativeToolTip": "airport.Service\\StatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:41:26.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\LocationService.cs",
+              "RelativeDocumentMoniker": "airport.Service\\LocationService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\LocationService.cs",
+              "RelativeToolTip": "airport.Service\\LocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:40:03.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\FlightService.cs",
+              "RelativeDocumentMoniker": "airport.Service\\FlightService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\FlightService.cs",
+              "RelativeToolTip": "airport.Service\\FlightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:38:37.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\CompanyService.cs",
+              "RelativeDocumentMoniker": "airport.Service\\CompanyService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\CompanyService.cs",
+              "RelativeToolTip": "airport.Service\\CompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:35:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AirplaneService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\AirplaneService.cs",
+              "RelativeDocumentMoniker": "airport.Service\\AirplaneService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D9\u05E2\u05DC \u05D5\u05D9\u05D3\u05E8\\lesson5\\airport\\airport.Service\\AirplaneService.cs",
+              "RelativeToolTip": "airport.Service\\AirplaneService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:34:49.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

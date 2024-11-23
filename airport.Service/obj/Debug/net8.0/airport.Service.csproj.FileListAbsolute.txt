@@ -1,0 +1,15 @@
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\bin\Debug\net8.0\airport.Service.deps.json
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\bin\Debug\net8.0\airport.Service.dll
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\bin\Debug\net8.0\airport.Service.pdb
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\bin\Debug\net8.0\airport.Core.dll
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\bin\Debug\net8.0\airport.Core.pdb
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.AssemblyInfo.cs
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport..0760A062.Up2Date
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.dll
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\refint\airport.Service.dll
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\airport.Service.pdb
+T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Service\obj\Debug\net8.0\ref\airport.Service.dll
