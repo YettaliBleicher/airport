@@ -10,6 +10,6 @@ namespace airport.Core.Repositories
     public interface IFlightRepository
     {
         public List<Flight> GetAll();
-
+        public Flight GetById(int id);
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace airport.Data.Repositories
 {
-    public class FlightRepository: IFlightRepository
+    public class FlightRepository : IFlightRepository
     {
         public readonly DataContext _context;
 
@@ -20,5 +20,10 @@ namespace airport.Data.Repositories
         {
             return _context.flights.ToList();
         }
+        public Flight GetById(int id)
+        {
+            return _context.flights.FirstOrDefault(x => x.flightId == id);
+        }
+
     }
 }
