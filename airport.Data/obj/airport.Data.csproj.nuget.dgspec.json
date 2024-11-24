@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Data\\airport.Data.csproj": {}
+    "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Data\\airport.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\airport.Core.csproj": {
+    "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\airport.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\airport.Core.csproj",
+        "projectUniqueName": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\airport.Core.csproj",
         "projectName": "airport.Core",
-        "projectPath": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\airport.Core.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\obj\\",
+        "projectPath": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\airport.Core.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +39,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,29 +65,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Data\\airport.Data.csproj": {
+    "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Data\\airport.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Data\\airport.Data.csproj",
+        "projectUniqueName": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Data\\airport.Data.csproj",
         "projectName": "airport.Data",
-        "projectPath": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Data\\airport.Data.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Data\\obj\\",
+        "projectPath": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Data\\airport.Data.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -90,11 +95,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\airport.Core.csproj": {
-                "projectPath": "C:\\Users\\user1\\Documents\\לימודים\\כתה יד\\NET CORE\\lesson6\\lesson6\\airport\\airport.Core\\airport.Core.csproj"
+              "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\airport.Core.csproj": {
+                "projectPath": "T:\\Group B\\NetCore\\יטלי בלייכר\\lesson6\\airport\\airport.Core\\airport.Core.csproj"
               }
             }
           }
@@ -103,21 +108,26 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.36, )"
+              "version": "[8.0.11, )"
             }
           },
           "imports": [
@@ -136,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

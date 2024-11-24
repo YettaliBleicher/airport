@@ -1,7 +1,11 @@
-﻿namespace airport.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace airport.Entities
 {
     public class Status
     {
+        [Key]
+
         public int statusId { get; set; }
         public string describe { get; set; }
 

@@ -9,3 +9,15 @@ T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Core\obj\Debug\net8.0
 T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Core\obj\Debug\net8.0\refint\airport.Core.dll
 T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Core\obj\Debug\net8.0\airport.Core.pdb
 T:\Group B\NetCore\יעל וידר\lesson5\airport\airport.Core\obj\Debug\net8.0\ref\airport.Core.dll
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.dll
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\refint\airport.Core.dll
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.pdb
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\bin\Debug\net8.0\airport.Core.deps.json
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\bin\Debug\net8.0\airport.Core.dll
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\bin\Debug\net8.0\airport.Core.pdb
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.AssemblyInfo.cs
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\airport.Core.sourcelink.json
+T:\Group B\NetCore\יטלי בלייכר\lesson6\airport\airport.Core\obj\Debug\net8.0\ref\airport.Core.dll
