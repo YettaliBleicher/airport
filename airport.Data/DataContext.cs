@@ -18,6 +18,7 @@ namespace airport
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            // חיבור ל-sql
             optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=airport");
         }
 
